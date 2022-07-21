@@ -29,7 +29,7 @@ SECRET_KEY = 'SECRET_KEY'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['antoniog675-django-todo-app.git']
+ALLOWED_HOSTS = ['https://git.heroku.com/antoniog675-django-todo-app.git']
 
 
 # Application definition
